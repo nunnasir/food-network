@@ -160,3 +160,24 @@ section {
     font-size: 16px;
     font-weight: 400;
 }
+
+footer {
+    height: 250px;
+    background-color: #0B0D17;
+}
+
+.footer-content {
+    text-align: center;
+    padding-top: 10px;
+}
+
+footer h4 {
+    font-size: 30px;
+    font-weight: 900;
+    color: #5B5B5B;
+}
+
+footer p {
+    font-size: 16px;
+    color: #fff;
+}
